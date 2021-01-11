@@ -1,0 +1,74 @@
+[
+    {
+        "Id":1,
+        "Name":"Angular Speedster Board 2000",
+        "Description":"Lorem ipsum dolor sit amet.",
+        "Price":200,
+        "PictureUrl":"images/products/sb-ang1.png",
+        "ProductTypeId":1,
+        "ProductBrandId":5
+    },
+    {
+        "Id":2,
+        "Name":"Angular Speedster Board 3000",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":3,
+        "ProductBrandId":2
+    },
+    {
+        "Id":3,
+        "Name":"Core purplr boots",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":3,
+        "ProductBrandId":6
+    },
+    {
+        "Id":4,
+        "Name":"Core Red boots",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":4,
+        "ProductBrandId":3
+    },
+    {
+        "Id":5,
+        "Name":"Redis Red boots",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":2,
+        "ProductBrandId":4
+    },
+    {
+        "Id":6,
+        "Name":"Coran maron",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":1,
+        "ProductBrandId":2
+    },
+    {
+        "Id":7,
+        "Name":"Green Angular",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":1,
+        "ProductBrandId":4
+    },
+    {
+        "Id":8,
+        "Name":"Red Angular",
+        "Description":"Lorem ipsum dolor sit amet.Jayasimha",
+        "Price":150,
+        "PictureUrl":"images/products/sb-ang2.png",
+        "ProductTypeId":1,
+        "ProductBrandId":1
+    }
+]
